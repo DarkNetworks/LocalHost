@@ -1,0 +1,12 @@
+{
+    "server": {
+      "host": "localhost",
+      "port": 8080,
+      "directory": "Directory Path"
+    },
+    "logging": {
+      "enabled": true,
+      "log_file": "logs/log.txt",
+      "log_level": "INFO"
+    }
+}
