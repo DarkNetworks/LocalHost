@@ -81,7 +81,6 @@ LocalHost offers logging functionality to keep track of server activity. To enab
 Contributions to LocalHost are welcome! Feel free to open issues, submit feature requests, or create pull requests.
 
 ## License
-LocalHost is released under the [MIT License](https://github.com/DarkNetworks/LocalHost/blob/main/LICENCE).
-
+LocalHost is released under the [MIT License](https://github.com/DarkNetworks/LocalHost/blob/main/LICENSE).
 
 Happy hosting! 🎉
